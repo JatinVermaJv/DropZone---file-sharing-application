@@ -1,4 +1,4 @@
-# File Sharing Application (Droplink)
+# File Sharing Application (DropZone)
 
 This application is a web-based platform built using the MERN stack (MongoDB, Express.js, React.js, and Node.js) that allows users to upload files and share them with others via a unique link. When someone clicks on the generated link, the file is downloaded directly.
 
